@@ -1,1 +1,6 @@
-{}
+{
+  "livePreview": true,
+  "showLineNumber": true,
+  "spellcheck": false,
+  "vimMode": true
+}
