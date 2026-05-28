@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "蓝桥杯/差分、前缀和.md",
+                "file": "蓝桥杯/双指针、BFS和图论.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "差分、前缀和"
+              "title": "双指针、BFS和图论"
             }
           }
         ]
@@ -185,9 +185,15 @@
   },
   "active": "896006745b8b1929",
   "lastOpenFiles": [
+    "蓝桥杯/images/Pasted image 20260529000457.png",
     "蓝桥杯/双指针、BFS和图论.md",
-    "蓝桥杯/差分、前缀和.md",
+    "蓝桥杯/images/Pasted image 20260529000418.png",
     "蓝桥杯/树状数组和线段树.md",
+    "Pasted image 20260528224631.png",
+    "Pasted image 20260528224559.png",
+    "Pasted image 20260528222837.png",
+    "蓝桥杯/images/Pasted image 20260528222658.png",
+    "蓝桥杯/差分、前缀和.md",
     "蓝桥杯/images/Pasted image 20260517223119.png",
     "蓝桥杯/images/Pasted image 20260517231627.png",
     "未命名.md",
