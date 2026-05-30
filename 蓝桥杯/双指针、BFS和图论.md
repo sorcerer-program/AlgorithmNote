@@ -66,3 +66,35 @@ int main() {
     return 0;
 }
 ```
+## 图论(环)
+### 经典题
+![[Pasted image 20260530221036.png]]
+![[Pasted image 20260529104032.png]]
+![[Pasted image 20260529104748.png]]
+```cpp
+#include <bits/stdc++.h>
+
+using namespace std;
+
+const int N = 10010;
+int bottle[N];
+int state[N];
+
+int main() {
+    int n;
+    cin >> n;
+    for (int i = 1; i <= n; i ++) cin >> bottle[i];
+    int cnt = 0;
+    for (int i = 1; i <= n; i ++) {
+        if (state[i]) continue;
+        int j = bottle[i];
+        while (!state[j]) {
+            state[j] = true;
+            j = bottle[j];
+        }
+        cnt ++;
+    }
+    cout << n - cnt << endl;
+    return 0;
+}
+```
