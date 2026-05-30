@@ -79,7 +79,6 @@ using namespace std;
 const int N = 10010;
 int bottle[N];
 int state[N];
-
 int main() {
     int n;
     cin >> n;
